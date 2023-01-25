@@ -6,4 +6,4 @@ isAvailable: true
 scenarioCount: 0
 isNew: true
 categories: 
-  - golang
+  - ty
