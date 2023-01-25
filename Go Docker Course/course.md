@@ -8,5 +8,6 @@ price:
 categories: 
   - docker
   - golang
-learningPaths: []
+learningPaths: 
+  - Go Learning Path Test
 complexity: advance
