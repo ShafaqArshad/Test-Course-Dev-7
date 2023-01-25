@@ -6,6 +6,7 @@ price:
   value: 22
   currency: USD
 categories: 
-  - Docker
+  - docker
+  - golang
 learningPaths: []
 complexity: advance
