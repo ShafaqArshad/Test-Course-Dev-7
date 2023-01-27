@@ -9,7 +9,5 @@ categories:
   - docker
   - golang
 learningPaths: 
-  - Go Learning Path Test
   - Go Learning Path Test 1
-  - Go Learning Path Test 2
 complexity: advance
