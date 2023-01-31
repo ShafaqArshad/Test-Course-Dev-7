@@ -1,4 +1,4 @@
-title: Go Docker Scenario 5
+title: Go Docker Scenarioo 5
 description: Understanding python and go scenaarios for testing the description of lp python
 time: 25 minutes
 steps:
