@@ -1,6 +1,6 @@
 title: Validate Lp 1
 description: Lets learn how to build a web application with Flask.
-scenarios: 
+scenarios: []
 isPremium: true
 isAvailable: true
 scenarioCount: 0
