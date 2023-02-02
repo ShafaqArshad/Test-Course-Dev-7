@@ -6,10 +6,9 @@ scenarios:
   - Go Docker Scenarioo 3
   - Go Docker Scenarioo 4
   - Go Docker Scenarioo 5
-  - Go Docker Scenarioo 6
 isPremium: true
 isAvailable: true
-scenarioCount: 6
+scenarioCount: 5
 isNew: true
 categories: 
   - docker
