@@ -6,9 +6,10 @@ scenarios:
   - Go Scenario 3
   - Go Scenario 4
   - Go Scenario 5
+  - Go Scenario 6
 isPremium: true
 isAvailable: true
-scenarioCount: 5
+scenarioCount: 6
 isNew: true
 categories: 
   - golang
