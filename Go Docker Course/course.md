@@ -10,4 +10,5 @@ categories:
   - golang
 learningPaths: 
   - Go Learning Path Test
+  - Go Learning Path Test 1
 complexity: advance
